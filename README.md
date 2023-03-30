@@ -3,7 +3,7 @@ We will improve your Python skills by learning how to code this 20 beginner Pyth
 
 
 01. e-Mail Sender
-02.
+02. 
 3.
 4.
 5.
